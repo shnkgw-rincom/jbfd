@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite the paper below."
+title: "JBFD — Japan Branded Food Database (classification results)"
+version: 0.1
+date-released: 2026-09-04
+authors:
+  - family-names: Nakagawa
+    given-names: Shin-ichi
+    affiliation: Research Institute of Info-Communication Medicine (RinCOM)
+  - family-names: Yamamoto
+    given-names: Akira
+license: CC0-1.0
+repository-code: https://github.com/shnkgw-rincom/jbfd
+preferred-citation:
+  type: article
+  title: "Webクローリングと大規模言語モデルを用いた市販加工食品データベースの構築―日本食品標準成分表2020年版（八訂）に基づく分類方式の提案と妥当性の検討―"
+  journal: "日本栄養・食糧学会誌"
+  year: 2026
+  notes: under review
+  authors:
+    - family-names: Nakagawa
+      given-names: Shin-ichi
+    - family-names: Yamamoto
+      given-names: Akira
